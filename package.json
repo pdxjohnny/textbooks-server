@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "node-static": "^0.7.7"
+    "express": "^4.13.3",
+    "mysql": "^2.10.2"
   }
 }
